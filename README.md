@@ -1,4 +1,4 @@
-# Infinite AI SEO
+# Infinite LLM SEO
 
 ![Infinite AI SEO](assets/demo.gif)
 
